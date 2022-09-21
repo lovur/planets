@@ -1,0 +1,28 @@
+{
+  "name": "planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanvurenl1/planets.git"
+  },
+  "keywords": [
+    "planets",
+    "threejs",
+    "3d",
+    "animation"
+  ],
+  "author": "Logan Van Vuren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanvurenl1/planets/issues"
+  },
+  "homepage": "https://github.com/vanvurenl1/planets#readme",
+  "dependencies": {
+    "three": "^0.144.0"
+  }
+}
